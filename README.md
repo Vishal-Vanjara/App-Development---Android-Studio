@@ -23,4 +23,4 @@ UI Design: XML
 
 IDE: Android Studio
 
-Database/Backend: (Mention if you used Firebase, SQLite, or any API)
+Database/Backend: Firebase
